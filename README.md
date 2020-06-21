@@ -7,6 +7,7 @@ http://chintan27.pythonanywhere.com/medicine
 
 for medicines according to manufacturer
 Eg .http://chintan27.pythonanywhere.com/medicine/manufacturer/Drug.ly
+
 Maunfacturers
 * Botica LTD
 * Medication WareHouse PVT LTD
@@ -16,6 +17,7 @@ Maunfacturers
 
 for medicines according to type
 Eg .http://chintan27.pythonanywhere.com/medicine/type/Pills
+
 Types
 * Pills
 * Tube
